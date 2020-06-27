@@ -1,0 +1,19 @@
+{
+  "name": "package-demo-test",
+  "version": "1.0.2",
+  "description": "add npm package test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shk1991/package-demo-test.git"
+  },
+  "author": "sunhongkui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shk1991/package-demo-test/issues"
+  },
+  "homepage": "https://github.com/shk1991/package-demo-test#readme"
+}
